@@ -1,0 +1,9 @@
+# Force GitHub Linguist to class Python files as primary
+*.py linguist-detectable=true
+
+# Ignore files that confuse language statistics
+*.yaml linguist-detectable=false
+*.yml linguist-detectable=false
+*.json linguist-detectable=false
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
