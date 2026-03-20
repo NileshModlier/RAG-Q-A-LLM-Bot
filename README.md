@@ -143,3 +143,4 @@ Includes queries, batch queries, and REST client file.
 ---
 ## 📝 License
 MIT
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
